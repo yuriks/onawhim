@@ -1,0 +1,10 @@
+# Warn level 3
+-W3
+
+# Tiled output
+-gt
+# 4-bpp
+-gB4
+
+# No palette
+-p!
